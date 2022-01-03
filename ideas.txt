@@ -20,3 +20,6 @@ How?
 
 # Hell, per application wireshark. Wouldn't that be great.
  - SystemTap might do this?
+ - Partial problem: need to handle applications that bypass getaddrinfo,
+ but this should be doable.
+ - Does Nagios-core do this?
