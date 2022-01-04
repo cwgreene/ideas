@@ -28,3 +28,5 @@ How?
     - Windows Desktop Thingy querying updates.
     - Steps
     - Daily stuff (teeth and so forth)
+
+# Reverse protocols of things that are mobile only for no reason.
