@@ -23,3 +23,8 @@ How?
  - Partial problem: need to handle applications that bypass getaddrinfo,
  but this should be doable.
  - Does Nagios-core do this?
+
+ # Tracking Stuff
+    - Windows Desktop Thingy querying updates.
+    - Steps
+    - Daily stuff (teeth and so forth)
